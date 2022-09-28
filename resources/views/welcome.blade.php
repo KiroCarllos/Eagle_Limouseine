@@ -35,7 +35,7 @@
     <div class="container">
        <div class="text-center" >
            <h2 class="page-title" style="margin-bottom: 110px">We're coming soon</h2>
-           <p class="">This Website Under Maintainance </p>
+           <h4 class=""><b>This Website Under Maintainance </b></h4>
 
        </div>
     </div>
