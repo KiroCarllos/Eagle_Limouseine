@@ -31,8 +31,20 @@
     <div class="container">
        <div class="text-center" >
            <h2 class="page-title" style="margin-bottom: 110px">We're coming soon</h2>
-           <h4 class=""><b>This Website Under Maintainance </b></h4>
            <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <br>
+           <div class="row">
+               <div class="col-md-6">
+                   <h4 class="text-center"><b>This Website Under Maintainance </b></h4>
+               </div>
+           </div>
+           <br>
+           <br>
+
            <nav class="footer-social-links">
                <a href="#" class="social-link"><i class="mdi mdi-facebook-box"></i></a>
                <a href="#" class="social-link"><i class="mdi mdi-twitter"></i></a>
