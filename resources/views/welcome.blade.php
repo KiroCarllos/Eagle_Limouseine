@@ -20,14 +20,10 @@
             <a class="navbar-brand" href="#">
                 <img style="width: 120px;height: 120px;border-radius: 50%" src="{{ asset("assets/images/logo.jpg") }}" alt="logo">
             </a>
-            <span class="navbar ml-auto d-none d-sm-inline-block"><nav class="footer-social-links">
-            <a href="#" class="social-link"><i class="mdi mdi-facebook-box"></i></a>
-            <a href="#" class="social-link"><i class="mdi mdi-twitter"></i></a>
-            <a href="#" class="social-link"><i class="mdi mdi-google"></i></a>
-            <a href="#" class="social-link"><i class="mdi mdi-slack"></i></a>
-            <a href="#" class="social-link"><i class="mdi mdi-skype"></i></a>
-        </nav> </span>
-            <span class="navbar-text d-none d-sm-inline-block">| Eagles Limousine</span>
+            <span class="navbar-text ml-auto d-none d-sm-inline-block">
+
+            </span>
+            <span class="navbar-text d-none d-sm-inline-block"> Eagles Limousine</span>
         </nav>
     </div>
 </header>
@@ -36,7 +32,14 @@
        <div class="text-center" >
            <h2 class="page-title" style="margin-bottom: 110px">We're coming soon</h2>
            <h4 class=""><b>This Website Under Maintainance </b></h4>
-
+           <br>
+           <nav class="footer-social-links">
+               <a href="#" class="social-link"><i class="mdi mdi-facebook-box"></i></a>
+               <a href="#" class="social-link"><i class="mdi mdi-twitter"></i></a>
+               <a href="#" class="social-link"><i class="mdi mdi-google"></i></a>
+               <a href="#" class="social-link"><i class="mdi mdi-slack"></i></a>
+               <a href="#" class="social-link"><i class="mdi mdi-skype"></i></a>
+           </nav>
        </div>
     </div>
 </main>
